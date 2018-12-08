@@ -1,4 +1,4 @@
-# sem5-exceptions
+# sem5-exceptions :+1:
 
 [Ссылка для создания своего репозитория по данному заданию](https://classroom.github.com/assignment-invitations/91b324b2cab3849669c8d4cd85e9b976/)
 
